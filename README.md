@@ -1,31 +1,19 @@
-# Bloom2
+# Bloom
 
-This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.15.
+[Demo Video](https://youtu.be/1ne9Ra7c7DI):
 
-## Development server
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+[![Demo Video](http://img.youtube.com/vi/1ne9Ra7c7DI/0.jpg)](https://youtu.be/1ne9Ra7c7DI)
 
-## Code scaffolding
+Available from Evil Genius Labs: http://www.evilgeniuslabs.org
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive/pipe/service/class`.
+Spherical light art display, built with 60 WS2812B RGB LEDs, controlled with a Particle Photon, using the FastLED library.
 
-## Build
+This model is about 9.5" in diameter.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
+Controlled via an app or webpage over Wi-Fi, and/or a wireless infrared remote control.
 
-## Running unit tests
+Comes with over 20 patterns built-in.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Programmable over Wi-Fi or micro USB cable.
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/). 
-Before running the tests make sure you are serving the app via `ng serve`.
-
-## Deploying to Github Pages
-
-Run `ng github-pages:deploy` to deploy to Github Pages.
-
-## Further help
-
-To get more help on the `angular-cli` use `ng --help` or go check out the [Angular-CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+Wi-Fi Remote Control App: https://evilgeniuslabs.github.io/bloom2
